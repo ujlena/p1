@@ -1,0 +1,18 @@
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+* {
+	font-family: ;
+}
+body {
+	background-color: #fff;
+}
+
+img {
+	width: 20%;
+}
