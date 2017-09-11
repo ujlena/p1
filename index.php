@@ -6,7 +6,7 @@
 	<link href="css/main.css" rel="stylesheet">
 </head>
 <body>
-	<h2>Youjin Kim</h2>
+	<h1>Youjin Kim</h1>
 	<img src="images/profilepicture.jpg" alt="profile picture">
 	<h2>About Me</h2>
 	<p>
