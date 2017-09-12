@@ -9,12 +9,47 @@ html {
 
 body {
 	background-color: #fff;
+	/*border: 5px solid #555;*/
+	padding: 5em 10em;
 }
 
-img {
+div > img {
+	border: 2px solid #333;
 	width: 20%;
+	float: left;
+	margin: 1em;
+}
+
+div#about {
+	width: 70%;
+	float: left;
+	margin-bottom: 3em;
 }
 
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	padding-left: .5em;
+}
+div#about p {
+	padding-left: 1em;
+	text-align: justify;
+	font-size: 1.1em;
+}
+
+
+blockquote {
+	margin: 3em 3em 1em 3em;
+	padding: 3em;
+	clear: both;
+	border-top: 3px double #eee;
+	font-style: italic;
+}
+
+blockquote img#quoteicon {
+	width: 16px;
+	
+	margin-right: 1em;
 }
