@@ -28,9 +28,9 @@
 		"You are braver than you believe, stronger than you seem, and smarter than you think. - Winnie the Pooh", 
 		"Every adventure requires a first step - Alice in Wonderland", 
 		"You know what the issue is with this world? Everyone wants a magical solution to their problem, and everyone refuses to believe in magic. - Alice in Wonderland");
-	$rand_keys = array_rand($input, 2);
-	echo $input[$rand_keys[0]]. "\n";
-	echo $input[$rand_keys[1]]. "\n";
+
+	$rand_key = array_rand($input, 1);
+	echo $input[$rand_key]. "\n";
 
 	?>
 	</blockquote>
