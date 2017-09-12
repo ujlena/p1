@@ -16,7 +16,9 @@
 	?>
 	</p>
 	<p>
-		I've worked for a company which developed an IDE for military training simulation using C# on .Net framework and Unity3D program. Unity3D is for one of the features represents 3D image simulation for the IDE. This is my last semester towards to 'web technology certificate' in Harvard Extension School. I have been taking two fundamental courses first semester, then one of each classes DGMD-E20 and E25 following two semesters. After dealing with front-end side even with adapting CMSs skills through last couple of classes, I felt some limitation of my knowledge and want to expand it to back-end. I thought it would be great to learn and be clear what's going on on server-side and get a big picture to visualize in my head not only the front-end side. It is pretty challenging class for me even thought it has been only two weeks since I have no experience in using command lines via Terminal or using Git/Github. But I am very excited in learning all this material in-depth through this class. 
+		I've worked for a company which developed an Integrated Developmet Environment (IDE) for military training simulation using C# on .Net framework and Unity3D program. Unity3D is for one of the features that represents 3D image simulation for the IDE. This is my last semester towards the 'Web Technology Certificate' at Harvard Extension School. I have taken two fundamental web technology courses first semester, then "Modern and Mobile Front-End Web Design I" and "Introduction to Web Content Management Systems Site Development" during the following two semesters. 
+		After I learned and studied about front-end side and Content Management Systems (CMS) through last couple of classes, I felt a lack of my knowledge and want to expand my skills to back-end side. 
+		I thought it would be great to learn back-end and get a full picture of the web in my head. It is a pretty challenging class for me even though it has been only two weeks since I have no experience in using command line via Terminal or using Git/Github. However, I am very excited in learning all this material in-depth through this class. 
 	</p>
 	
 	<blockquote>
